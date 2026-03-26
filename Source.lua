@@ -40,7 +40,7 @@ local OrionLib = {
 
 -- Icons
 	local Icons = {}
-	local LucideIcons = loadstring(game:HttpGet("https://github.com/luakitty/Libka/raw/refs/heads/main/Icons"))().assets
+	local LucideIcons = loadstring(game:HttpGet("https://github.com/luakitty/Libka/raw/refs/heads/main/Icons.lua"))().assets
 
 -- Core
 	local Orion = Instance.new("ScreenGui")
